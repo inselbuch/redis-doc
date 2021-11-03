@@ -784,7 +784,7 @@ the actual figure we can expect in the long time:
     127000 Gets/sec | Hits: 50870 (40.06%) | Misses: 76130 (59.94%)
     124250 Gets/sec | Hits: 50147 (40.36%) | Misses: 74103 (59.64%)
 
-A miss rage of 59% may not be acceptable for our use case. So we know that
+A miss rate of 59% may not be acceptable for our use case. So we know that
 100MB of memory is not enough. Let's try with half gigabyte. After a few
 minutes we'll see the output stabilize to the following figures:
 
